@@ -1,0 +1,1 @@
+export type { SingleExercise } from "./interfaces/singleExercise"

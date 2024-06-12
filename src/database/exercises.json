@@ -1,0 +1,276 @@
+{
+    "muscle_groups": [
+        {
+            "name": "Dorsal",
+            "exercises": [
+                {
+                    "exercise_name": "Jalón tras nuca",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Jalón al pecho",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Remo en máquina",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Remo con mancuerna",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Remo con polea",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Remo punta",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Lumbares",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Peso muerto",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Francés de polea",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Pull over en polea",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "name": "Abdomen",
+            "exercises": [
+                {
+                    "exercise_name": "Clásicos",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Con polea",
+                    "image_url": ""
+                },                {
+                    "exercise_name": "Declinado",
+                    "image_url": ""
+                },                {
+                    "exercise_name": "Oblicuos",
+                    "image_url": ""
+                },                {
+                    "exercise_name": "Oblicuos con mancuerna",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "name": "Pectoral",
+            "exercises": [
+                {
+                    "exercise_name": "Press banca",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Press inclinado máquina",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Verticales",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Cierre de pecho",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Press con mancuerna",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Flexiones",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Apertura con mancuernas",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Press inclinado mancuerna",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Press banca declinado",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Pull over con mancuerna",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "name": "Hombro",
+            "exercises": [
+                {
+                    "exercise_name": "Press militar",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Press militar tras nuca",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Press con mancuerna",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Elevaciones laterales con mancuerna",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Elevación frontal con barra",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Contracciones con mancuerna",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Flexiones invertidas",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Elevaciones de pie",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Elevaciones sentado",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "name": "Piernas",
+            "exercises": [
+                {
+                    "exercise_name": "Squats",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Press inclinado",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Flexión de rodilla",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Extensión de rodilla a dos piernas",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Extensión de rodilla a una pierna",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Curl de isquiotibiales",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Press horizontal",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Peso muerto rumano",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Isquios con mancuerna",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Apertura abductor",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "name": "Bíceps",
+            "exercises": [
+                {
+                    "exercise_name": "Predicador",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Curl con barra",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Curl con mancuernas",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Curl de martillo",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Curl sentado",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Predicador",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Predicador",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Predicador",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Predicador",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Predicador",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "name": "Tríceps",
+            "exercises": [
+                {
+                    "exercise_name": "Extensión a una mano",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Extensiones tumbabo",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Polea superior con barra",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Polea superior con cuerda",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Peso propio",
+                    "image_url": ""
+                },
+                {
+                    "exercise_name": "Extensiones apoyado",
+                    "image_url": ""
+                }
+            ]
+        }
+    ]
+}
